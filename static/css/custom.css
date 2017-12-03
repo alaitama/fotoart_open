@@ -1,0 +1,50 @@
+
+
+.navbar-default {
+	font-size: 22px;
+}
+
+.navbar-brand{
+	font-size: 28px;
+	font-weight: 100;
+}
+
+
+h1, h2, h3, .navbar, .site-info {
+	font-family: YanoneKaff, Arial, Helvetica, sans-serif;
+}
+
+.principal {
+	text-align: center;
+}
+
+.nav-footer > ul > li {
+  padding: 0px 0;
+}
+
+.site-info {
+	font-size: 18px;
+	letter-spacing: 2px;
+}
+
+/*
+body {
+	font-family: YanoneKaff, Arial, Helvetica, sans-serif;
+}
+*/
+
+
+.p-nav {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+
+#links > a {
+	font-size: 0%;
+}
+
+#thumbnail-image {
+	/*margin-right: -4px;
+	*/
+}
